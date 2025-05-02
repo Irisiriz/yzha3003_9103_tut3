@@ -33,5 +33,6 @@ function helloWorld() {
 console.log("Hello, world!");
 }
 ```
+I can write a sentence referencing `hello world` like this
 
 > This is a blockquote.
