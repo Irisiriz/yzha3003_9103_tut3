@@ -22,7 +22,7 @@ I am adding a line of text to my readme.
     1. first item
     2. second item
 
-[Link Text](https://)
+[Link Text](https://google.com)
 
 ![An image of a cat](https://placekitten.com/200/300)
 
