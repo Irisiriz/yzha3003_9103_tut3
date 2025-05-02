@@ -10,7 +10,7 @@ I am adding a line of text to my readme.
 ##### Header 5
 ###### Header 6
 
-**Bold Text** or __Bold Text_
+**Bold Text** or __Bold Text__
 
 *Italic Text* or _Italic Text_
 
