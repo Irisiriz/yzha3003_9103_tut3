@@ -14,7 +14,7 @@ I am adding a line of text to my readme.
 
 *Italic Text* or _Italic Text_
 
-- Item 
+- Item 1
 - Item 2
     - Subitem 1
     - Subitem 2
